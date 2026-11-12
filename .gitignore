@@ -1,0 +1,3 @@
+.manual_runtime/
+__pycache__/
+.streamlit/secrets.toml
